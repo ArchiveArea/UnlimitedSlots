@@ -1,0 +1,9 @@
+---
+name: UnlimitedSlots
+version: 0.0.1
+main: NhanAZ\UnlimitedSlots\Main
+api: 5.0.0
+author: NhanAZ
+website: https://github.com/NhanAZ
+description: Unlimited slots players join the server.
+...
