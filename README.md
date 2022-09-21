@@ -1,3 +1,5 @@
+> This plugin will not be released on Poggit because of rule violation [A3: No duplicates](https://poggit.pmmp.io/rules.edit) but it will still be under active development!
+
 # UnlimitedSlots
 Unlimited slots players join the server.
 
